@@ -1,5 +1,5 @@
 # numbers-to-words-python
-Technical task/modified code wars kata - given a number return the word equivalent e.g. (int)42 -> (string)fourty two
+Technical task/modified code wars kata - given a number return the word equivalent e.g. (int)42 -> (string)forty two
 
 ## How to run:
 - Open ```main.py``` and change the variable value of ```my_number``` to a number from 0-99.
